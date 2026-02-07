@@ -28,9 +28,6 @@ export default function Navbar() {
           <li>
             <Link href="#">Resources</Link>
           </li>
-          <li>
-            <Link href="#">Yusuf</Link>
-          </li>
         </ul>
 
         <div className="flex items-center gap-4">
